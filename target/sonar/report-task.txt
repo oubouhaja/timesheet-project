@@ -1,0 +1,6 @@
+projectKey=timesheet-devops
+serverUrl=http://localhost:9000
+serverVersion=26.2.0.119303
+dashboardUrl=http://localhost:9000/dashboard?id=timesheet-devops
+ceTaskId=c9112fca-8b08-47ba-961e-ce8103bc258d
+ceTaskUrl=http://localhost:9000/api/ce/task?id=c9112fca-8b08-47ba-961e-ce8103bc258d
